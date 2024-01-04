@@ -1,0 +1,6 @@
+@Feladat_2023._01._04_HostAddress = http://localhost:5171
+
+GET {{Feladat_2023._01._04_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

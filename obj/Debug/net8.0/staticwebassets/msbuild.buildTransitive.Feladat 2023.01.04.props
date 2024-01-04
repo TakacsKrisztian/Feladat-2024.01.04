@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Feladat 2023.01.04.props" />
+</Project>
